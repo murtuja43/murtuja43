@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlkMGZ2bDd1bjRzZzh6Njludm13ZWxxNHdvbzdiaHE5cWdkNXljdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.gif"  />
 
 ###
@@ -23,7 +25,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="200" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif?cid=790b7611jgaii00h0qe0ugmufvbauo0gy150xgxa4t5eygn1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
