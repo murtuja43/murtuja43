@@ -9,13 +9,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
 ###
@@ -25,10 +25,10 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif?cid=790b7611jgaii00h0qe0ugmufvbauo0gy150xgxa4t5eygn1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://media.giphy.com/media/x1CjxowaWEV1YXV47t/giphy.gif?cid=ecf05e47svt9fjbnqxpi78zxtjjhom89avsysv1zbjd4wi52&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<p align="left">You're free to visit my profile and repositories. If you like any repo staring it will me happy!</p>
+<h4 align="left">If you like any repo hit the Star button!</h4>
 
 ###
