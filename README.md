@@ -22,6 +22,16 @@
 I have mastered HTML and CSS. </br>
 Currently learning Python (🐍😅)
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  #  GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=murtuja43&theme=merko&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  ##  GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=murtuja43&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murtuja43&theme=merko&hide_border=false)<br/>
