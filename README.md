@@ -1,4 +1,4 @@
-<h2 align="center">Hey there!(•_•)</h2>
+<h1 align="left">Hey there!(•_•)</h1>
 
 ###
 
