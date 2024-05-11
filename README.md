@@ -19,7 +19,8 @@
 </div>
 
 # 💫 About Me:
-Currently (2024) learning Python
+I have mastered HTML and CSS.
+Currently learning Python (🐍😅)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
