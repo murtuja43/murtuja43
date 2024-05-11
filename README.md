@@ -23,7 +23,7 @@ I have mastered HTML and CSS. </br>
 Currently learning Python (🐍😅)
 
 <div style="display: flex; justify-content: center;">
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murtuja43&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuja43&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
