@@ -19,7 +19,7 @@
 </div>
 
 # 💫 About Me:
-I have mastered HTML and CSS.
+I have mastered HTML and CSS. </br>
 Currently learning Python (🐍😅)
 
 # 📊 GitHub Stats:
@@ -29,7 +29,5 @@ Currently learning Python (🐍😅)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=murtuja43&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
